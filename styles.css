@@ -1,3 +1,10 @@
 * {
     border: 1px solid black;
 }
+h1 {
+    text-align: center;
+}
+.screen {
+    border: 3px solid green;
+    background-color: lightgray;
+}
